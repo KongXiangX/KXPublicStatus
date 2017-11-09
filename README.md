@@ -27,4 +27,4 @@ SDWebImage
 2.由于 LxGridViewFlowLayout  内部长按时，使用的是 对应cell 的 截图，
 所以第一长按对应cell 无法显示 删除 按钮，需要 在对应位置 ，添加 一次 删除按钮
 <br>
-![zhan shi](https://github.com/KongXiangX/KXPublicStatus/blob/master/展示.gif)
+ ![展示] (https://github.com/KongXiangX/KXPublicStatus/blob/master/展示.gif)
