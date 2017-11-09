@@ -28,5 +28,5 @@ SDWebImage
 所以第一长按对应cell 无法显示 删除 按钮，需要 在对应位置 ，添加 一次 删除按钮
 <br>
 <br>
-<img src="https://github.com/KongXiangX/KXPublicStatus/blob/master/展示.gif" width=40 height=600 />
+<img src="https://github.com/KongXiangX/KXPublicStatus/blob/master/展示.gif" width=340 height=600 />
 <br>
